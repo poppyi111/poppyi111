@@ -7,7 +7,7 @@ M.S. in Civil & Computer Engineering from Carnegie Mellon University, currently 
 - Building agentic AI applications and exploring ML systems / inference optimization.
 
 ## 🛠️ Skills
-**Languages:** C/C++, Python, JavaScript, SQL, MATLAB
+**Languages:** C/C++, Python, JavaScript, SQL, MATLAB \
 **Tools & Frameworks:** PyTorch, React, Node.js, Docker, Linux, Git, AWS
 
 ## 💻 Featured Projects
