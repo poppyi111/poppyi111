@@ -1,9 +1,9 @@
 # Hi, I'm Poppy 👋
 
-M.S. in Civil & Computer Engineering from Carnegie Mellon University, currently a PhD researcher applying **AI/ML to real-world infrastructure systems**.
+M.S. in Civil & Computer Engineering from Carnegie Mellon University, currently a PhD researcher applying AI/ML to real-world infrastructure systems.
 
 ## 🔭 What I'm working on
-- Designing an **AI agent system** for real-time stormwater monitoring at Wightman Park, Pittsburgh — using computer vision, sensor data, and digital twin modeling to help cities respond to flooding more intelligently.
+- Designing an AI agent system for real-time stormwater monitoring at Wightman Park, Pittsburgh — using computer vision, sensor data, and digital twin modeling to help cities respond to flooding more intelligently.
 - Building agentic AI applications and exploring ML systems / inference optimization.
 
 ## 🛠️ Skills
