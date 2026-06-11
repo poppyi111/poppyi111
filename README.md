@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Poppy 👋
 
-<!--
-**poppyi111/poppyi111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. in Civil & Computer Engineering from Carnegie Mellon University, currently a PhD researcher applying **AI/ML to real-world infrastructure systems**.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- Designing an **AI agent system** for real-time stormwater monitoring at Wightman Park, Pittsburgh — using computer vision, sensor data, and digital twin modeling to help cities respond to flooding more intelligently.
+- Building agentic AI applications and exploring ML systems / inference optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+**Languages:** C/C++, Python, JavaScript, SQL, MATLAB
+**Tools & Frameworks:** PyTorch, React, Node.js, Docker, Linux, Git, AWS
+
+## 💻 Featured Projects
+- 🔌 Concurrent web proxy server with multithreading and LRU caching
+- 🧠 Custom dynamic memory allocator (malloc/free/realloc) in C
+- 🐧 Linux kernel modules for real-time task monitoring
+- 📊 Real-time road condition monitoring system (Python, MySQL, ETL pipelines)
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/maow) | maow2625@gmail.com
